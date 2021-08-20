@@ -1,8 +1,7 @@
 _Groundwater Researcher based in Hsinchu City, Taiwan_ <br>
 
 [Email](mailto:aar246860@gmail.com) / [Google Scholar](https://scholar.google.com.tw/citations?user=PW0RFf0AAAAJ&hl=zh-TW) / [ResearchGate](https://www.researchgate.net/profile/Ye-Chen-Lin) <br>
-![image](https://user-images.githubusercontent.com/89235885/130206080-91c0a754-003a-4671-8470-0440a0146160.png)
-
+<img src="https://user-images.githubusercontent.com/89235885/130206080-91c0a754-003a-4671-8470-0440a0146160.png" width="371.5" height="508">
 
 ## :computer: Research Experience
 
