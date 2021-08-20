@@ -5,10 +5,9 @@ _Groundwater Researcher (and sometimes still a journalist) based in Berlin, Germ
 ## 👩🏼‍💻 Research Experience
 
 **Postdoctoral Research** @ [Env. NYCU](https://www.ev.nctu.edu.tw/) _(Nov 2018 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
+  - Builting mathematical model for groundwater flow, sloute transport, and heat transfer
+  - Estimating the aquifer parameters from aquifer pumping tests, tracer test, and thermal response test
+  - **_Tools used for research:_** Fortran, Python, Mathematica, Microsoft Visio, Surfer, Grapher, Word, Latex.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
