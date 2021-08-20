@@ -1,10 +1,10 @@
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
+_Groundwater Researcher (and sometimes still a journalist) based in Berlin, Germany_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:aar246860@gmail.com) / [Google Scholar](https://scholar.google.com.tw/citations?user=PW0RFf0AAAAJ&hl=zh-TW) / [ResearchGate](https://www.researchgate.net/profile/Ye-Chen-Lin)
 
-## 👩🏼‍💻 Technical Experience
+## 👩🏼‍💻 Research Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+**Postdoctoral Research** @ [Env. NYCU](https://www.ev.nctu.edu.tw/) _(Nov 2018 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
