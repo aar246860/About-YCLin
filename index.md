@@ -46,21 +46,14 @@ transfer term for the flow in dual-porosity media induced by constant-rate pumpi
 <br><br>
 
 ## 💬 Languages
-
-**English**: Native <br>
-**German**: A2.2
+**Mandarin**: Native <br>
+**English**: Intermediate <br>
+**Taiwanese**: Intermediate <br>
 <br><br>
 
 ## 👩🏼‍🎓 Education
+**PhD** @ [Env. NYCU](https://www.ev.nctu.edu.tw/) - Hsinchu City, Taiwan _(Agu 2015 - Jul 2018)_ <br>
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**MS** @ [Env. NYCU](https://www.ev.nctu.edu.tw/) - Hsinchu City, Taiwan _(Sep 2013 - Jun 2015)_ <br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**BS** @ [Env. NCKU] - Tainan City, Taiwan _(Agu 2009 - Jul 2011)_ <br>
