@@ -8,7 +8,7 @@ _Groundwater Researcher based in Hsinchu City, Taiwan_ <br>
   - Builting mathematical model for groundwater flow, sloute transport, and heat transfer
   - Estimating the aquifer parameters from aquifer pumping tests, tracer test, and thermal response test
   - **_Tools used for research:_** Fortran, Python, Mathematica, Microsoft Visio, Surfer, Grapher, Word, Latex.
-  -**_Analyzing techniques:_** Integral transformations, Local sensitivity analysis, Morris screening method, Numerical Laplace inversion, Optimization methods.
+  - **_Analyzing techniques:_** Integral transformations, Local sensitivity analysis, Morris screening method, Numerical Laplace inversion, Optimization methods.
 <br><br>
 
 ## :books: Participated Projects
@@ -24,11 +24,11 @@ _Groundwater Researcher based in Hsinchu City, Taiwan_ <br>
 ## :newspaper: Selected Papers
  - An analytical model with a generalized nonlinear water 
 transfer term for the flow in dual-porosity media induced by constant-rate pumping in a leaky fractured aquifer _(2021)_<br>
-![image](https://user-images.githubusercontent.com/89235885/130208303-4a86a410-3d65-4d79-8e1e-7a1bc7fb8bbb.png)
+<img src="https://user-images.githubusercontent.com/89235885/130208303-4a86a410-3d65-4d79-8e1e-7a1bc7fb8bbb.png" width="519.5" height="289">
  - A Simple Analytical Solution for Organic Contaminant Diffusion through a Geomembrane to Unsaturated Soil Liner: Considering the Sorption effect and Robin-type boundary _(2020)_<br>
-![image](https://user-images.githubusercontent.com/89235885/130208425-9b950b21-5607-42a1-b6e8-3796bf56c7b0.png)
+<img src="https://user-images.githubusercontent.com/89235885/130208425-9b950b21-5607-42a1-b6e8-3796bf56c7b0.png" width="519.5" height="289">
  - Analytical model for heat transfer accounting for both conduction and dispersion in aquifers with a Robin‐type boundary condition at the injection well _(2019)_<br>
-![image](https://user-images.githubusercontent.com/89235885/130208488-74da9cc4-651d-4d63-8138-7fa865fc8d0b.png)
+<img src="https://user-images.githubusercontent.com/89235885/130208488-74da9cc4-651d-4d63-8138-7fa865fc8d0b.png" width="519.5" height="289">
 
 
 ## :pencil: Publication List
