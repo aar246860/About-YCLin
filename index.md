@@ -1,6 +1,6 @@
 # Ye-Chen Lin (林曄辰)
 
-_Groundwater Researcher based in Hsinchu City, Taiwan_ <br>
+_Groundwater Diver based in Hsinchu City, Taiwan_ <br>
 [Email](mailto:aar246860@gmail.com) / [Google Scholar](https://scholar.google.com.tw/citations?user=PW0RFf0AAAAJ&hl=zh-TW) / [ResearchGate](https://www.researchgate.net/profile/Ye-Chen-Lin) <br>
 ## 💻 Research Experience
 **Postdoctoral Research** @ [Env. NYCU](https://www.ev.nctu.edu.tw/) _(Nov 2018 - Present)_ <br>
@@ -10,7 +10,6 @@ _Groundwater Researcher based in Hsinchu City, Taiwan_ <br>
   - **_Analyzing techniques:_** Integral transformations, Local sensitivity analysis, Morris screening method, Numerical Laplace inversion, Optimization methods.
 <br><br>
 
-
 ## 📚 Participated Projects
 **The government projects I have participated** <br>
  - MOST project: 4
@@ -18,33 +17,34 @@ _Groundwater Researcher based in Hsinchu City, Taiwan_ <br>
 <br><br>
 
 ## 🏆 Achievement <br>
- - MOST MOST Postdoctoral Researcher Academic Research Award _(2020)_
+ - **MOST Postdoctoral Researcher Academic Research Award**🏆 _(2020)_
  - Outstanding Paper Award, 9th Conference on Groundwater _(2016)_
  - Sinotech Foundation Scholarship _(2014)_
  - Axreborn International Env. Eng. Co. Scholarship _(2014)_
  - Academic Excellence Award@ [Env. NYCU](https://www.ev.nctu.edu.tw/)  _(2013)_
+
 <br><br>
 
 ## 📰 Selected Papers <br>
  - An analytical model with a generalized nonlinear water 
 transfer term for the flow in dual-porosity media induced by constant-rate pumping in a leaky fractured aquifer _(2021)_<br>
-<img src="https://user-images.githubusercontent.com/89235885/130208303-4a86a410-3d65-4d79-8e1e-7a1bc7fb8bbb.png" width="519.5" height="289">
+[<img src="https://user-images.githubusercontent.com/89235885/130208303-4a86a410-3d65-4d79-8e1e-7a1bc7fb8bbb.png" width="519.5" height="289">](https://doi.org/10.1029/2020WR029186)
  - A Simple Analytical Solution for Organic Contaminant Diffusion through a Geomembrane to Unsaturated Soil Liner: Considering the Sorption effect and Robin-type boundary _(2020)_<br>
-<img src="https://user-images.githubusercontent.com/89235885/130208425-9b950b21-5607-42a1-b6e8-3796bf56c7b0.png" width="519.5" height="289">
+[<img src="https://user-images.githubusercontent.com/89235885/130208425-9b950b21-5607-42a1-b6e8-3796bf56c7b0.png" width="519.5" height="289">](https://doi.org/10.1016/j.jhydrol.2020.124873)
  - Analytical model for heat transfer accounting for both conduction and dispersion in aquifers with a Robin‐type boundary condition at the injection well _(2019)_<br>
-<img src="https://user-images.githubusercontent.com/89235885/130208488-74da9cc4-651d-4d63-8138-7fa865fc8d0b.png" width="519.5" height="289">
+[<img src="https://user-images.githubusercontent.com/89235885/130208488-74da9cc4-651d-4d63-8138-7fa865fc8d0b.png" width="519.5" height="289">](https://doi.org/10.1029/2019WR024966)
 <br><br>
 
 ## 📝 Publication List <br>
-- **_Lin, Y. C._**, & Yeh, H. D. (2021). An analytical model with a generalized nonlinear water transfer term for the flow in dual‐porosity media induced by constant‐rate pumping in a leaky fractured aquifer. Water Resources Research. [Link](https://doi.org/10.1029/2020WR029186)
-- Huang, C. S., Wang, Z., **_Lin, Y. C._**, Yeh, H. D., and Yang, T. (2020). New analytical models for flow induced by pumping in a stream‐aquifer system: A new Robin boundary condition reflecting joint effect of streambed width and storage. Water Resources Research. [Link](https://doi.org/10.1029/2019WR026352)
-- **_Lin, Y. C._**, and Yeh, H. D. (2020). A Simple Analytical Solution for Organic Contaminant Diffusion through a Geomembrane to Unsaturated Soil Liner: Considering the Sorption effect and Robin-type boundary. Journal of Hydrology. [Link](https://doi.org/10.1016/j.jhydrol.2020.124873)
-- **_Lin, Y. C._** and Yeh, H. D. (2020). New analytical model for constant-head pumping: Considering rate-dependent factor at well screen. Journal of Hydrology. [Link](https://doi.org/10.1016/j.jhydrol.2019.124395)
+- **_Lin, Y. C._**, & Yeh, H. D. (2021). An analytical model with a generalized nonlinear water transfer term for the flow in dual‐porosity media induced by constant‐rate pumping in a leaky fractured aquifer. Water Resources Research. [[Link]](https://doi.org/10.1029/2020WR029186)
+- Huang, C. S., Wang, Z., **_Lin, Y. C._**, Yeh, H. D., and Yang, T. (2020). New analytical models for flow induced by pumping in a stream‐aquifer system: A new Robin boundary condition reflecting joint effect of streambed width and storage. Water Resources Research. [[Link]](https://doi.org/10.1029/2019WR026352)
+- **_Lin, Y. C._**, and Yeh, H. D. (2020). A Simple Analytical Solution for Organic Contaminant Diffusion through a Geomembrane to Unsaturated Soil Liner: Considering the Sorption effect and Robin-type boundary. Journal of Hydrology. [[Link]](https://doi.org/10.1016/j.jhydrol.2020.124873)
+- **_Lin, Y. C._** and Yeh, H. D. (2020). New analytical model for constant-head pumping: Considering rate-dependent factor at well screen. Journal of Hydrology. [[Link]](https://doi.org/10.1016/j.jhydrol.2019.124395)
 - **_Lin, Y. C._**, Hu, T. F., and Yeh, H. D. (2019). Analytical model for heat transfer accounting for both conduction and dispersion in aquifers with a Robin‐type boundary condition at the injection well. Water Resources Research. [Link](https://doi.org/10.1029/2019WR024966)
-- **_Lin, Y. C._**, Huang, C. S., and Yeh, H. D. (2019). Analysis of unconfined flow induced by constant rate pumping based on the lagging theory. Water Resources Research. [Link](https://doi.org/10.1029/2018WR023893)
-- **_Lin, Y. C._** and Yeh, H. D. (2017). A lagging model for describing drawdown induced by a constant-rate pumping in a leaky confined aquifer. Water Resources Research. [Link](https://doi.org/10.1002/2017WR021115)
-- **_Lin, Y. C._**, Li, M. H., and Yeh, H. D. (2017). An analytical model for flow induced by a constant-head pumping in a leaky unconfined aquifer system with considering unsaturated flow. Advances in Water Resources. [Link](https://doi.org/10.1016/j.advwatres.2017.05.018)
-- **_Lin, Y. C._**, Yang, S. Y., Fen, C. S., and Yeh, H. D. (2016). A general analytical model for pumping tests in radial finite two-zone confined aquifers with Robin-type outer boundary. Journal of Hydrology. [Link](https://doi.org/10.1016/j.jhydrol.2016.07.028)
+- **_Lin, Y. C._**, Huang, C. S., and Yeh, H. D. (2019). Analysis of unconfined flow induced by constant rate pumping based on the lagging theory. Water Resources Research. [[Link]](https://doi.org/10.1029/2018WR023893)
+- **_Lin, Y. C._** and Yeh, H. D. (2017). A lagging model for describing drawdown induced by a constant-rate pumping in a leaky confined aquifer. Water Resources Research. [[Link]](https://doi.org/10.1002/2017WR021115)
+- **_Lin, Y. C._**, Li, M. H., and Yeh, H. D. (2017). An analytical model for flow induced by a constant-head pumping in a leaky unconfined aquifer system with considering unsaturated flow. Advances in Water Resources. [[Link]](https://doi.org/10.1016/j.advwatres.2017.05.018)
+- **_Lin, Y. C._**, Yang, S. Y., Fen, C. S., and Yeh, H. D. (2016). A general analytical model for pumping tests in radial finite two-zone confined aquifers with Robin-type outer boundary. Journal of Hydrology. [[Link]](https://doi.org/10.1016/j.jhydrol.2016.07.028)
 <br><br>
 
 ## 💬 Languages <br>
