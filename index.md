@@ -17,7 +17,7 @@ _Groundwater Diver based in Hsinchu City, Taiwan_ <br>
 <br><br>
 
 ## 🏆 Achievement <br>
- - **MOST Postdoctoral Researcher Academic Research Award**🏆 _(2020)_
+ - MOST Postdoctoral Researcher Academic Research Award _(2020)_
  - Outstanding Paper Award, 9th Conference on Groundwater _(2016)_
  - Sinotech Foundation Scholarship _(2014)_
  - Axreborn International Env. Eng. Co. Scholarship _(2014)_
