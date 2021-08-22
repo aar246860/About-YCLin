@@ -62,6 +62,6 @@ transfer term for the flow in dual-porosity media induced by constant-rate pumpi
 **English**: Intermediate <br>
 **Taiwanese**: Intermediate <br>
 ## ⛺ Hobbies <br>
-**Martial arts**: Faborate boxers: [Canelo](https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez), [Lomachenko](https://en.wikipedia.org/wiki/Vasiliy_Lomachenko), and [Inoue]([https://en.wikipedia.org/wiki/Naoya_Inoue)<br>
+**Martial arts**: Faborate boxers: [Canelo](https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez), [Lomachenko](https://en.wikipedia.org/wiki/Vasiliy_Lomachenko), and [Inoue]([https://en.wikipedia.org/wiki/Naoya_Inoue) <br>
 **Weight training**: Bodybuilding, Powerlifting, Functional training <br>
 <br><br>
