@@ -3,9 +3,10 @@ _Groundwater Diver 🤿 based in Hsinchu City, Taiwan_ <br>
 [Email](mailto:aar246860@gmail.com) / [Google Scholar](https://scholar.google.com.tw/citations?user=PW0RFf0AAAAJ&hl=zh-TW) / [ResearchGate](https://www.researchgate.net/profile/Ye-Chen-Lin) <br>
 ## 💻 Research Experiences
 **Postdoctoral Research** @ [Env. NYCU](https://www.ev.nctu.edu.tw/) _(Nov 2018 - Present)_ <br>
-  - Builting mathematical model for groundwater flow, sloute transport, and heat transfer
-  - Estimating the aquifer parameters from aquifer pumping tests, tracer test, and thermal re[Uploading Fig1.tif…]()apher, Word, Latex.
-  - **_Analyzing techniques:_** Integral transformations, Local sensitivity analysis, Morris screening method, Numerical Laplace inversion, Optimization methods.
+  - Builting mathematical model for groundwater flow, sloute transport, and heat transfer.
+  - Estimating the aquifer parameters from aquifer pumping tests, tracer test, and thermal response test.
+  - **_Tools used for research:_** Fortran, Python, Mathematica (_main analysis tool_), Grapher, Surfer, Word, and Latex.
+  - **_Analyzing techniques:_** Integral transformations, Local sensitivity analysis, Morris screening method, Numerical Laplace inversion, and Optimization methods.
 <br><br>
 
 ## 👓 Peer Review Experiences
