@@ -30,7 +30,8 @@ _Groundwater Diver 🤿 based in Hsinchu City, Taiwan_ <br>
 
 <br><br>
 
-## 📰 Selected Papers <br>
+## 📰 Feature Papers <br>
+_You can navigate to the accosiated paper webpages by clicking the pictures bloew_
  - An analytical model with a generalized nonlinear water 
 transfer term for the flow in dual-porosity media induced by constant-rate pumping in a leaky fractured aquifer _(2021)_<br>
 [<img src="https://user-images.githubusercontent.com/89235885/130339684-2cd6200b-9826-4bc1-8530-c2a3e6e8f1cc.png" width="519.5" height="289">](https://doi.org/10.1029/2020WR029186)
