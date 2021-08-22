@@ -57,13 +57,10 @@ transfer term for the flow in dual-porosity media induced by constant-rate pumpi
 **PhD** @ [Env. NYCU](https://www.ev.nctu.edu.tw/) - Hsinchu City, Taiwan _(Agu 2015 - Jul 2018)_ <br>
 **MS** @ [Env. NYCU](https://www.ev.nctu.edu.tw/) - Hsinchu City, Taiwan _(Sep 2013 - Jun 2015)_ <br>
 **BS** @ [Env. NCKU] - Tainan City, Taiwan _(Agu 2009 - Jul 2011)_ <br>
-
 ## 💬 Languages <br>
 **Mandarin**: Native <br>
 **English**: Intermediate <br>
 **Taiwanese**: Intermediate <br>
-<br><br>
-
 ## ⛺ Hobbies <br>
 **Martial arts**: Faborate boxers: [Canelo](https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez), [Lomachenko](https://en.wikipedia.org/wiki/Vasiliy_Lomachenko), and [Inoue]([https://en.wikipedia.org/wiki/Naoya_Inoue)<br>
 **Weight training**: Bodybuilding, Powerlifting, Functional training <br>
