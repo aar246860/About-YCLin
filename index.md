@@ -1,4 +1,4 @@
-# Ye-Chen Lin (林曄辰)
+# Ye-Chen Lin, PhD
 _Groundwater Diver 🤿 based in Hsinchu City, Taiwan_ <br>
 [Email](mailto:aar246860@gmail.com) / [Google Scholar](https://scholar.google.com.tw/citations?user=PW0RFf0AAAAJ&hl=zh-TW) / [ResearchGate](https://www.researchgate.net/profile/Ye-Chen-Lin) <br>
 ## 💻 Research Experiences
