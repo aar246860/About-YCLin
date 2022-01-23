@@ -66,7 +66,8 @@ transfer term for the flow in dual-porosity media induced by constant-rate pumpi
 **English**: Intermediate <br>
 **Taiwanese**: Intermediate <br>
 ## ⛺ Hobbies <br>
-Leader of Jeet Kune Do Club (Ted Wong system)_(2010 - 2012)_ <br>
+Leader of Jeet Kune Do Club (Ted Wong system) in NCKU_(2010 - 2012)_ <br>
+Member of Kickboxing Club in NYCU _(2021 - present)_ <br>
 1. **Martial arts**: <br>
 - _Favorate boxers_:
 - [Canelo](https://en.wikipedia.org/wiki/Canelo_%C3%81lvarez)
